@@ -9,9 +9,13 @@
 
 <div align="center">
 
-![jimasr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimasr&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
-![jimasr's Stats](https://github-readme-stats.vercel.app/api?username=jimasr&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
-
+<a href="https://github.com/jimasr">
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimasr&theme=github_dark&show_icons=true&hide_border=true&layout=compact"/>
+</a>
+&emsp;
+<a href="https://github.com/jimasr">
+	<img src="https://github-readme-stats.vercel.app/api?username=jimasr&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
 </div> 
 
 ## Languages and Tools
@@ -19,7 +23,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+  	<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
 		<img height="50" width="50" alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"/>
 	</a>
   &emsp;
