@@ -70,6 +70,10 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/hazim-asri-307989221" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="hazim-asri-307989221" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="hazim-asri-307989221" height="30" width="40" />
+  </a>
+  &emsp;
+  <a href="mailto: hazimasri@yahoo.com">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
   </a>
 </div>
