@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hazim 👋</h1>
-<p align="center">Future software engineer, passionate in AI/ML and web development</p>
+<p align="center">Future software engineer @INSA Lyon</p>
 
 <br/>
 
